@@ -1,2 +1,5 @@
-package ro.master.smarthome.command;public interface Command {
+package ro.master.smarthome.command;
+
+public interface Command {
+    void execute();
 }

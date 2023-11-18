@@ -1,8 +1,9 @@
 package ro.master.smarthome.model;
 
-public enum MessageType {
+public enum SensorType {
     HUMIDITY,
     PROXIMITY,
     TEMPERATURE,
-    GAS
+    GAS,
+    LIGHT
 }
